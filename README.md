@@ -2,7 +2,7 @@
 
 ## ✅ Deployed on Github Pages 
 ```md
-https://github.com/AbhayNiranjan/
+https://abhayniranjan.github.io/code-hub/
 ```
 
 ## Abhay niranjan ❤️ 
